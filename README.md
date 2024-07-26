@@ -1,5 +1,14 @@
 # Microscopy-Image-Classification
 
+![image](https://github.com/user-attachments/assets/5184358f-c3a1-4d83-abfb-c1a8afc30d1a)
+
+![image](https://github.com/user-attachments/assets/7d29eb1c-060a-442d-b6d0-9d2663461a0f)
+
+![image](https://github.com/user-attachments/assets/988111cb-a877-46db-bd7f-eb9fe9642195)
+
+
+
+
 
 TASK
 
@@ -20,3 +29,10 @@ IMAGES FOR TRAINING AND TESTSET
 ◦ ID + suffix
 
 ◦ Combine images (64,64,3) and treat as RGB
+
+
+![image](https://github.com/user-attachments/assets/5902a89d-95e1-47ac-97ea-61f573f7ced6)
+
+![image](https://github.com/user-attachments/assets/9d95b3b8-4e44-479f-9bce-091de94aae23)
+
+
